@@ -25,7 +25,7 @@
 | 구분 | 기술 |
 | :--- | :--- |
 | **Backend** | <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&amp;logo=springsecurity&amp;logoColor=white" alt="Spring Security" /> |
-| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Cloud_Firestore-DD8A00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Cloud Firestore" /> |
+| **Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle" /> <img src="https://img.shields.io/badge/Cloud_Firestore-DD8A00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Cloud Firestore" /> |
 | **Cloud** | <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud" /> |
 | **Game Development** | <img src="https://img.shields.io/badge/C%23-684D95?style=for-the-badge" alt="C#" /> <img src="https://img.shields.io/badge/Unity-343434?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" /> |
 | **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Notion-343434?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion" /> |
@@ -37,7 +37,6 @@
 | 기간 | 활동 | 주요 내용 |
 | :--- | :--- | :--- |
 | 2026.09 – 현재 | **GDGoC DGU Core Member** | 기술 세션·세미나 진행, 동아리 홈페이지 백엔드 및 인증 기능 개발 |
-| 2025.12 – 2026.11 | **동국대학교 디지털정보처 근로학생** | 교내 컴퓨터·IT 인프라 유지 보수 및 사용자 지원 |
 | 2025.09 – 2025.12 | **FarmSystem UNION** | 코딩 스터디 참여 및 팀 프로젝트 개발 |
 | 2025.09 – 2025.12 | **HI-SW 봉사단 SW멘토** | 광희중학교 특수학급 학생 대상 코딩·AI·교구 활용 교육 지원 |
 
