@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-**Java와 Spring Boot로 인증과 매칭 기능을 구현하는 백엔드 개발자 김강현입니다.**
+###**Java와 Spring Boot로 인증과 매칭 기능을 구현하는 백엔드 개발자 김강현입니다.**
 
 - 🎓 동국대학교 컴퓨터공학 전공
 - 🌱 GDGoC DGU Core Member · 홈페이지 백엔드 및 인증 기능 개발
